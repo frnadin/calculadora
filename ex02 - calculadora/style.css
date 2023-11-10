@@ -1,0 +1,54 @@
+
+.color1 {color: #16151d;}
+.color2 {color: #30333a;}
+.color3 {color: #5d5565;}
+.color4 {color: #8c8394;}
+.color5 {color: #c7b8ce;}
+
+*{
+    margin: 0;
+    color: #c7b8ce;
+}
+
+header{
+    text-align: center;
+    background-color: #16151d;
+    padding: 30px;
+    border-bottom: 8px #4B0082 solid;
+}
+
+body{
+    background-color: #30333a;
+}
+
+article{
+margin: 50px;
+text-align: center;
+}
+
+.butao{
+    color: #c7b8ce;
+    background-color: #4B0082;
+    /* margin-top: 15px; */
+    margin: 8px;
+}
+#x, #y{
+    margin-top: 15px;
+    background-color: #c7b8ce;
+    color: #16151d;
+    /* margin-top: 15px; */
+}
+
+#selecao{
+    opacity: 0;
+}
+
+#nota{
+    opacity: 0;
+    margin: 0px;
+}
+
+#notinha{
+    margin: 0px;
+    font-style: italic;
+}
